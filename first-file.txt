@@ -1,4 +1,5 @@
 Hello Welcome to Devops && AWS Classes && Welcome to India
+Hello Welcome to GIT && GITHUB Tutorial
 :wq
 :wq!
 Make changes and include for git pull
